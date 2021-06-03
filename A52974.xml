@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevv questions resolved, concerning the city of Londons petition and engagement for a personall treaty</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52974</idno><idno type="EEBO-CITATION">13241737</idno>
+  <idno type="VID">98633</idno>
+  <idno type="EEBO-PROQUEST">2248524182</idno>
+  
+            <idno type="STC">Wing N736</idno>
+            <idno type="STC">ESTC R7883</idno>
+            <idno type="OCLC">13241737</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 430:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevv questions resolved, concerning the city of Londons petition and engagement for a personall treaty</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98633:1"/>
+            <head>NEVV QUESTIONS RESOLVED, Concerning the City of <hi>Londons</hi> Pe<g ref="char:EOLhyphen"/>tition and Engagement <hi>for a personall Treaty.</hi>
+            </head>
+            <p>
+               <label>Question.</label>
+               <seg rend="decorInit">W</seg>Hether the Parliament ought to govern the Na<g ref="char:EOLhyphen"/>tion, and dispose of the Kings Person accor<g ref="char:EOLhyphen"/>ding to their own judgements, or according to the importunity of the Aldermen and Common-Councelmen of <hi>London,</hi> and num<g ref="char:EOLhyphen"/>ber of Petitioners?</p>
+            <p>
+               <label>Answer.</label> The Parliament would be breakers of their trust, if they should be moved, either by their importunity or number, to admit a thing so evidently dangerous, and contrary to their own understandings and consciences, they being chosen and entrusted solely by the generality of the people, for redresse of grievances, and to provide for safety, the Common-Councell or City of <hi>London</hi> having no more to do in matters of nationall or generall concernment, then any other City of the Nation, having their Burgesses in Parliament to represent and vote as they see cause.</p>
+            <p>
+               <label>Quest.</label> To what end then are Petitions, if it be no more then so, men were as good save the labour and trouble of fra<g ref="char:EOLhyphen"/>ming and promoting Petitions, and only present their desires by the burgesses that serve for their respective places?</p>
+            <p>
+               <label>Answ.</label> Doubtlesse, it is the most proper way, for all men to present their desires by their own Burgesses, and if they re<g ref="char:EOLhyphen"/>fuse, or do it not to content, then no doubt all men are free to petition; but they are to consider, that the true and just end of
+<pb n="2" facs="tcp:98633:2"/> petitioning, is only for information of the equity of the thing or things desired, leaving the Parliament as free to judge, as if no Peti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion had been presented.</p>
+            <p>
+               <label>Q<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est.</label> But admit the Parliament do mistake the matter pre<g ref="char:EOLhyphen"/>sented, and upon mistake proceed prejudicially, either in doing or fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bearing, in reference to the thing or things desired, are not men free to re-advise and present further information?</p>
+            <p>
+               <label>Answ.</label> Yes, certainly they are, but so as not to be clamorous, violent or importunate, nor to insist upon the number of Peti<g ref="char:EOLhyphen"/>tioners, as the manner corruptly hath been, but upon the reason of the matter or matters petitioned, leaving the Parliament as at first freely to judge.</p>
+            <p>
+               <label>Quest.</label> If it b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so, why then are the Aldermen and Com<g ref="char:EOLhyphen"/>mon-Councelmen in the City and others in the places adjacent, so importunate with all men young and old to subscribe their names to a Petition and engagement for a personall Treaty with the King?</p>
+            <p>
+               <label>Answ.</label> Tho best way to judge thereof, will be when the Pe<g ref="char:EOLhyphen"/>tition is presented with the engagement subscribed, to take an account by the names, how many amongst them have contri<g ref="char:EOLhyphen"/>buted freely upon the propositions, and what their language &amp; demeanou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> since these troubles have been, towards such as have been forward for the Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ament; for <hi>by the men and their actions,</hi> is more certain to judge, then by their Petition which is but words; and if the greatest number of them appeare to be malig<g ref="char:EOLhyphen"/>nants, it may certainly be concluded, that under the colour of a personall Treaty, they intend to make the King (for whom they have alwayes been, and against the Parliament) absolute master over Parliament and people, and by that means, to be re<g ref="char:EOLhyphen"/>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nged upon the Roundheads, whom with the Parliament, they continually revile with the bitterest reproaches, and by this feare of a personall Treaty, to do that for the King by fraud, that he and they long sought for (in vain to eff ct by force.</p>
+            <p>
+               <label>Quest.</label> What may be the cause, that some who have beene alw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies for the Parliament, have neverthelesse subscribed this engagement?</p>
+            <p>
+               <label>A.</label> Some of those are swayed there into through fear, observing how the promotors do threaten the refus<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in many places, some with
+<pb n="3" facs="tcp:98633:2"/> one kind of mischeif and some with another, some upon vaine hopes are meerly deluded, and others through impatience at the decay of trade, continuance of excise, taxes and other discon<g ref="char:EOLhyphen"/>tents, are by the smooth speeches of the cheife drivers on of this design (pretending peace but intending war) <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ransported into a belief, that only a <hi>Personall treaty with the King in London,</hi> will put an end to all their troubles, and instead of further miseries would not only produce a safe and wel-grounded peace; but a p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>osperous trade and much happynes, when as these deceitfull hypocrites, through their continuall interuption of Parliament, their working <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ships to revolt, and the counties to rise, have them selves caused the decay of trade, continuance of Excise, &amp; dayly necessi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e other taxes; And for a safe and wel-grounded peace they equ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vocat therein, meaning it wil be so to themselvs really &amp; only, but to the Parliament &amp; all their adherents, with these seduced subscribers, their undoubted bondage and ruine.</p>
+            <p>
+               <label>Q</label> What may be the reason, that the Aldermen and Com<g ref="char:EOLhyphen"/>mon-Councell-men are now also so importunite with the Par<g ref="char:EOLhyphen"/>liament to have the Militia of Westminster, Southwarke, and the H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etts, put under the command of the Militia of <hi>London.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> That the men of those Committees, who are now Well affected may be changed for such as themselves, and after that, all the Officers and Commanders for such as will do what they shall command, and that once being effect<g ref="char:EOLhyphen"/>ed, then they will be in a good posture <hi>to compell a personall treaty from the P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament,</hi> or if they will nor grant it, or any thing else they desire, even to drive them from Westminster, or so many of them as will not serve their turnes, as they did a twelve moneth agoe.</p>
+            <p>Q. Were it not therefore better for the Parliament to con<g ref="char:EOLhyphen"/>tinue the jurisdiction of those Militias distinct as they are, and as of proper right b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>longs unto them, then at once to dis<g ref="char:EOLhyphen"/>content and wrong those p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aces, in taking away their right, and subjecting them to <hi>London,</hi> which already is so great, unruly and pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that they have in their lofty ex<g ref="char:EOLhyphen"/>pectations presumed they shall (in time) ever-master the Pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>liaments and whole Nation: besides, is not the <hi>Militia</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+               <pb n="4" facs="tcp:98633:3"/> and those Militias and all others, in their best most proper, and useful condition when they are all alike <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n readines to serve the Parliament, as now being distinct, they are in a po<g ref="char:EOLhyphen"/>sture of obedience, without any strange Lords to forbid or hin<g ref="char:EOLhyphen"/>der them; but being joyned with <hi>London,</hi> they will be in a con<g ref="char:EOLhyphen"/>dition to dispute, and if <hi>London</hi> then notwithstanding should pretend, that yet they are not in a fit condition of defence, and should petition (or rather command, as such almost are all their Petitions already) for more additions, were it not very dangerous both to the freedome of Parliaments and People?</p>
+            <p>
+               <label>A.</label> It is most certain, and therefore it is best for the Parlia<g ref="char:EOLhyphen"/>ment (minding both their own freedom and safety, and the peace and freedom of the Nation, for which they were chosen) that those Militias are distinct and so to continue, nor is it easily discernable how the Parliament can justly grant the fundamen<g ref="char:EOLhyphen"/>tall right or property of any one place in <hi>England,</hi> City, or Cor<g ref="char:EOLhyphen"/>poration to another; They may as justly dispose of private mens rights and properties to any greater then the owners, who shal petition for them, and be more able to detain them, then they are to defend or recover them: And no question, but the intention of this endeavouring to joyn the Militia's together at this time, is for as bad and dangerous ends, as can be imagined, which doth evidently appear, in that the well-affected of all those places, have not only petitioned the contrary, but are ex<g ref="char:EOLhyphen"/>treamly grieved, that, the Parliament upon the petitioning of the ill affected should not better consider, then so suddenly to order the cojunction: But it seems they begin to see so much danger therein, that they are necessitated to oppose it, and doubtlesse, will never grant such an unjust suit; for what mi<g ref="char:EOLhyphen"/>serie can be greater amongst m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, then the well-affected to be insl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved to proud Malignants, and such as are ever plotting their ruine; yea, so evident is the danger, that thousands of peaceable and well-minded Citizens have (on a sudden) promo<g ref="char:EOLhyphen"/>ted and presented a Petition against such a conjunction: but if good men were as wise i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>deed as now they are busy, they wold have seen some reason before they had changed their own Mi<g ref="char:EOLhyphen"/>litia, now they see their own slouth and negligence, though they have not yet tasted of the frairs thereof as <hi>Colchester</hi> hath done,
+<pb n="5" facs="tcp:98633:3"/> who indeed (to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>st mens grief) have great cause to curse the alteration, for that distressed Town might have bin free from the cruell miseries which now it suffers, had the new Mi<g ref="char:EOLhyphen"/>litia of <hi>London,</hi> been as well-affected as the old; yea, the whole Nation may justly lay all these new disturbances to the charge of this unjust alteration; for what is more evident, then that they have countenanced, if not fomented all the Risings in <hi>Wales, Kent, Essex, Sussex, Surrey,</hi> and all other places, as also the revolting of the Ships, and how the Parliament can quit it self, in shewing such forward and favourable respects to these or such, when they present such unjust and dangerous Petiti<g ref="char:EOLhyphen"/>ons is hard to judge, but it grieves the spirits of all honest men to see and consider it.</p>
+            <p>
+               <label>Quest.</label> What can the Parliament do when all sorts of people are so mad for <hi>a Personall Treaty,</hi> that whoever comes with that kind of language in their moaths, saying, that wha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they desire is in order to <hi>a Personall Treaty,</hi> if the Parlia<g ref="char:EOLhyphen"/>ment should deny it, they would be in very much danger; be<g ref="char:EOLhyphen"/>sides, these men in the front of those Petitions, professe that they are no wise obnoxious for Malignancy, but in good repute for their affection and assistance to the Parliament, such as Ald, <hi>Bi.</hi> and the like time-serving men.</p>
+            <p>
+               <label>Answ.</label> The cause why men are so mad for a <hi>Personall Treaty,</hi> is because the Parliament do not better informe those mens judgments, and shew them the injustice &amp; danger there<g ref="char:EOLhyphen"/>of, and that they countenance those and such malignants, when they present such vile and corrupt petitions; for all petitioners should be satisfied with forcible reasons from a PARLIA<g ref="char:EOLhyphen"/>MENT, or else farewell Parliaments to be any more menti<g ref="char:EOLhyphen"/>oned, (as it was not long before these troubles Proclamed) and referr the whole Government of the Nation, to the Com<g ref="char:EOLhyphen"/>mon Councell of <hi>LONDON.</hi> And as for Ald. <hi>Bi.</hi> whatever he may appeare to those who looke superficially on him, the man is known to have had alwaies a malignant heart, though he hath parts to conceale it from common eyes; for no two men in England have held more correspondency one with another, then he and <hi>Sq.</hi> the Delinquent Minister of Shor. <hi>By.</hi> indeede hath somewhat of a scholler in him,
+<pb n="6" facs="tcp:98633:4"/> but so much only as servs to puff him up, &amp; put him forward to shew himself in things of a malignant nature, &amp; such as are like to introduce Episcopacy, with which way of Superstition, he is more then a little tainted: Before he was an Ald. (its reported) he was exceeding charitable to the poor in <hi>Shor.</hi> the place of his habitation, but since (it appears) he hath abated his charity and love to all good works, which plainly ma<g ref="char:EOLhyphen"/>nifests that he made that his charitable practice, the path to the height of his ambition; And now being in place, and fondly believing he hath an opportunity and possibility, appeares in things palpably malignant; For what can be more palpably evill and dange<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, then his indirect ende<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vours (as one of the chief of <hi>Londons</hi> confederacy) for <hi>a Personall Treaty</hi> being the very same with all the rising Counties and revolting ships: Besides, how unworthy and Ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as like is it in him, to bend all the force of his endeavours thus to betray the long enjoyed li<g ref="char:EOLhyphen"/>berty of the Hamblets, even the very place where he hath from a mean condition, gained a great estate; And to second his fond fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ishing Inckhorn Rhetorick, he may please to mind that old saying, <hi>No man is so base as the unthankfull;</hi> And therefore, for any goodnesse, Religion, or tender affection in this Ald. or any other appearing in these wicked designs, it may in time prove to be as b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d (if not worse) then that of <hi>Tomkins</hi> and <hi>Challenor,</hi> agai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st whom till evill a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peared, there was as little (if not lesse) objection.</p>
+            <p>
+               <label>Q.</label> If these men intentions are so evidently pernicious, what is best for the Parliament to do in this case?</p>
+            <p>
+               <label>Answ.</label> To shew them their errour, and (in rational and faire tearmes) to ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ifest unto them that their evill intentions are apparant, and that therefore they (according to the trust re<g ref="char:EOLhyphen"/>posed in them by the p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople for their safety, are not only bound in conscience, but resolved to use all meanes of prevention: and withall, to declare to the world, how dange<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous and unreas<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nable it is for them, who are the representative body of the Na<g ref="char:EOLhyphen"/>tion to treat with the King, who is but one officer thereof (as if one were of mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e worth, then so many hundred thousands of people) Nay, to admit (as the engagers desire) <hi>a personall Trea<g ref="char:EOLhyphen"/>ty</hi> with him, that hath raised and maintained a most bloody and
+<pb n="7" facs="tcp:98633:4"/> destructive Warre, murthering and destroying the most peacea<g ref="char:EOLhyphen"/>ble religious people in all the three Nations, and this to; he be<g ref="char:EOLhyphen"/>ing their prisoner, and after they have published his hanious of<g ref="char:EOLhyphen"/>fences, and voted no further addresses to him: These and the like expressions from the Parliament, would certainly reclain those engagers to a better understanding and more right use of petitioning, and so prevent the <hi>horrid mischiefe intended by this so plausib<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a design.</hi>
+            </p>
+            <p>
+               <label>Quest.</label> What if not with standing all this should be done, those busie men will not desist, but bouldly proceed to ingage more, and to stirre up the people to importune and force the Parliament to yeld to their unreasonable wils, as they did with unparalelled violence the last yeare, though they undertook in the <hi>Armyes</hi> absence to defend the Parliament.</p>
+            <p>
+               <label>Ans.</label> If they should doe so, it will certainly prove to their owne vexation if not ruin, for however they may flatter them selves, there will never be wanting sufficent numbers in this Nation, to vindicate the just authority of Parliament, against all such desprat &amp; violent ob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruders of things so evidently de<g ref="char:EOLhyphen"/>strvctive to the liberties of the Nation, and that will freely hazard their lives and estates, to bring all such deliquents to justice and deserved punishment.</p>
+            <p>And therefore, let not these insolent &amp; imperious men so much presume, nor well minded men be in the least discouraged; for God, as in the former, so in these lat<g ref="char:EOLhyphen"/>ter troubles, hath appeared sufficiently to warne the one, and support the other, and yet stirreth up o<g ref="char:EOLhyphen"/>thers daylie, more and more for defence of so just a cause.</p>
+         </div>
+         <trailer>FJNJS,</trailer>
+      </body>
+   </text>
+</TEI>
